@@ -3,6 +3,5 @@
 ## Tunkeutumistestaus -kurssi
 
 Kurssitehtävien tallennus
-
     $ ls
     README.md
