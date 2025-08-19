@@ -4,5 +4,5 @@
 
 Kurssitehtävien tallennus
 
-    $ ls
+    $ls
     README.md
