@@ -35,6 +35,24 @@ Löysin myös versionhallinta lipun.
 
 <img width="452" height="191" alt="Image" src="https://github.com/user-attachments/assets/d229778c-f80c-450f-930c-90cc7d4feddd" />
 
+# b
+
+Lataan fuffme dockerin Debianiin.
+
+<img width="1254" height="494" alt="Image" src="https://github.com/user-attachments/assets/4cf8a005-a04d-4591-8bf0-77dd89f13811" />
+
+Harjoitusmaali toimii.
+
+<img width="1269" height="722" alt="Image" src="https://github.com/user-attachments/assets/8e361003-57de-4c8e-90b6-0268e3ff8cc1" />
+
+Sanakirjat asennettu.
+
+<img width="1231" height="704" alt="Image" src="https://github.com/user-attachments/assets/8c98b566-6636-4c7f-be68-539bb02ee765" />
+
+Kokeilin toiminnan.
+
+<img width="844" height="82" alt="Image" src="https://github.com/user-attachments/assets/58ee1b9d-678b-459d-8383-f83a09b9c08c" />
+
 # Lähteet
 Tero Karvinen. Find Hidden Web Directories - Fuzz URLs with ffuf. https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
 
