@@ -1,4 +1,4 @@
-# x.
+# x
 - Joohoin kehittämä web fuzzing työkalu
 - Työkalu yhdistää kaikki web fuzzing toiminnot
 - Kannattaa käyttää valmiita hakemisto kirjastoja
@@ -49,11 +49,27 @@ Sanakirjat asennettu.
 
 <img width="1231" height="704" alt="Image" src="https://github.com/user-attachments/assets/8c98b566-6636-4c7f-be68-539bb02ee765" />
 
-Kokeilin toiminnan.
+# c
+
+Löysin class ja development.log hakemistot.
 
 <img width="844" height="82" alt="Image" src="https://github.com/user-attachments/assets/58ee1b9d-678b-459d-8383-f83a09b9c08c" />
 
+<img width="451" height="116" alt="Image" src="https://github.com/user-attachments/assets/6afee594-6730-412b-b892-8c547d936228" />
+
+<img width="532" height="125" alt="Image" src="https://github.com/user-attachments/assets/63c6e9d0-390b-4422-b6cf-b1e6ef46382e" />
+
+# d
+
+Löytyi kansiot admin, admin/users ja admin/users/96
+
+<img width="936" height="628" alt="Image" src="https://github.com/user-attachments/assets/0e2c95cb-d533-4e80-80e5-2d3177c45a3b" />
+
+
+
 # Lähteet
 Tero Karvinen. Find Hidden Web Directories - Fuzz URLs with ffuf. https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
+
+Tero Karvinen. Fuffme - Install Web Fuzzing Target on Debian. https://terokarvinen.com/2023/fuffme-web-fuzzing-target-debian/
 
 HelSec. 0x03 Fuzzing Faster (U Fool) - joohoi - HelSec Virtual meetup #1. https://www.youtube.com/watch?v=mbmsT3AhwWU
