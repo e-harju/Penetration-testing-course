@@ -2,8 +2,7 @@
 - Joohoin kehittämä web fuzzing työkalu
 - Työkalu yhdistää kaikki web fuzzing toiminnot
 - Kannattaa käyttää valmiita hakemisto kirjastoja
-
-
+<br>
 - Tavallisia kohteita ovat GET parametrit, headerit ja POST data
 - Kannattaa tarkkailla vastauskoodeja, sisältöä ja vastausten kokoja
 - Video oli mielestäni hyvin tehty ja informatiivinen
