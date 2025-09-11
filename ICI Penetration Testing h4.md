@@ -8,6 +8,12 @@
 - Video oli mielestäni hyvin tehty ja informatiivinen
 - Tykkäsin itse erityisesti demoista
 
+# a
+Teen tehtävät Debianilla. Harjoittelin käyttöä dirfuz-0.
+
+Latasin ffuf:in ja Seclistin.
+<img width="1234" height="544" alt="Image" src="https://github.com/user-attachments/assets/8f58ee43-f743-4d2e-b89d-f64594f0d5ff" />
+
 # Lähteet
 Tero Karvinen. Find Hidden Web Directories - Fuzz URLs with ffuf. https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
 
