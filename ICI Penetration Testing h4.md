@@ -61,9 +61,55 @@ Löysin class ja development.log hakemistot.
 
 # d
 
-Löytyi kansiot admin, admin/users ja admin/users/96
+Löytyi kansiot admin, admin/users ja admin/users/96.
 
 <img width="936" height="628" alt="Image" src="https://github.com/user-attachments/assets/0e2c95cb-d533-4e80-80e5-2d3177c45a3b" />
+
+Minulla ei ollut pääsyä admin tai admin/users hakemistoja, mutta pääsin käyttäjälle 96.
+
+<img width="549" height="125" alt="Image" src="https://github.com/user-attachments/assets/6fa6273e-ea57-4533-a888-34865596a0b0" />
+
+# e
+
+Löysin kohde hakemiston.
+
+<img width="900" height="471" alt="Image" src="https://github.com/user-attachments/assets/7f1250d0-37ef-4678-870e-47969dc6c35c" />
+
+<img width="496" height="122" alt="Image" src="https://github.com/user-attachments/assets/c75c93a8-e4bb-43ff-8f98-f8430697caf0" />
+
+# f
+
+Ensiksi hain kaikki hakemistot, mutta sitten rajasin pois kaikki 669 kokoiset.
+
+<img width="842" height="465" alt="Image" src="https://github.com/user-attachments/assets/23092000-f1f7-4245-aada-c7db1d661c5d" />
+
+Löysin tämän secretistä.
+
+<img width="466" height="125" alt="Image" src="https://github.com/user-attachments/assets/0959e7c0-af6b-43c5-8eb9-b2c11ed66959" />
+
+# g
+
+Hain sivun, mutta siitä puuttuu parametrejä.
+
+<img width="451" height="126" alt="Image" src="https://github.com/user-attachments/assets/5df5c798-7629-4305-8144-a37a89cf201c" />
+
+Seuraavalla komennolla yritän etsiä puuttuvan parametrin.
+
+<img width="499" height="114" alt="Image" src="https://github.com/user-attachments/assets/40b348f1-0784-4415-a655-ea7879584988" />
+
+# h
+
+Ensimmäisellä komennolla tulee 429 statusta eli minut estettiin tekemästä uusia pyyntöjä.
+
+<img width="855" height="650" alt="image" src="https://github.com/user-attachments/assets/c2e317f7-db69-4187-b8f5-596d7b4a88d7" />
+
+Jos taas rajoitan pyyntöjen nopeuden en saa enää 429 statusta ja löydän oracle nimisen tiedoston.
+
+<img width="969" height="474" alt="image" src="https://github.com/user-attachments/assets/e52fe06a-7f86-4849-b77e-d55a54dcad7c" />
+
+<img width="446" height="151" alt="image" src="https://github.com/user-attachments/assets/be8a647d-ec66-4460-b577-bd91aad21f0a" />
+
+# i
 
 
 
