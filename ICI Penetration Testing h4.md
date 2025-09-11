@@ -111,6 +111,17 @@ Jos taas rajoitan pyyntöjen nopeuden en saa enää 429 statusta ja löydän ora
 
 # i
 
+Ajan komennon, jolla yritän löytää subdomainin virtual hostin avulla muuttamalla host headeria.
+
+<img width="888" height="659" alt="image" src="https://github.com/user-attachments/assets/4314a740-6660-4966-93d6-0d525daf6c16" />
+
+Seuraavaksi suodatan muut vastaukset löytääkseni etsimäni subdomainin.
+
+<img width="974" height="485" alt="image" src="https://github.com/user-attachments/assets/8882f21b-f2e1-4502-9a70-afb7ca820304" />
+
+Löysin redhat nimisen subdomainin, joka toimii.
+
+<img width="976" height="631" alt="image" src="https://github.com/user-attachments/assets/4626a6c3-770e-4d1c-9a29-febfccf85802" />
 
 
 # Lähteet
