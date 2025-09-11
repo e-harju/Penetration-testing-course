@@ -27,7 +27,13 @@ Suodatin pois 154 kokoiset tulokset, jotta löydän jotain poikkeavaa.
 
 <img width="811" height="589" alt="Image" src="https://github.com/user-attachments/assets/62e1ab4c-c971-422c-a305-29d713c55e48" />
 
+Läysin tiedoston wp-admin ja avasin sen. Löysin lipun.
 
+<img width="510" height="201" alt="Image" src="https://github.com/user-attachments/assets/5cbc8286-0c5a-4630-b821-b62c41672f8f" />
+
+Löysin myös versionhallinta lipun.
+
+<img width="452" height="191" alt="Image" src="https://github.com/user-attachments/assets/d229778c-f80c-450f-930c-90cc7d4feddd" />
 
 # Lähteet
 Tero Karvinen. Find Hidden Web Directories - Fuzz URLs with ffuf. https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
