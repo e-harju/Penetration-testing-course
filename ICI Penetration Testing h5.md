@@ -3,9 +3,11 @@
 - Hashcat on työkalu, joka etsii vastikkeita hashille kirjastoista 
 - Tykkään, että komentojen parametrit on avattu ohjeessa
 <br>
+
 - John the Ripper työkalua käytetään murtamaan tiedostojen salasana hasheja
 - Esimerkki komennot oli monimutkaiset (en kuitenkaan tiedä, onko se paras/ainoa tapa selittää ne)
 <br>
+
 
 
 # Lähteet
