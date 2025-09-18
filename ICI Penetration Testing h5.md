@@ -8,7 +8,8 @@
 - Esimerkki komennot oli monimutkaiset (en kuitenkaan tiedä, onko se paras/ainoa tapa selittää ne)
 <br>
 
-
+- Videoissa asiat oli selitetty selkeästi
+- Demot Hashcatista ja John the Ripperistä olivat hyödyllisiä, kun en ole ennen käyttänyt ohjelmia.
 
 # Lähteet
 
