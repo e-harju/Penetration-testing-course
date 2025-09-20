@@ -47,6 +47,18 @@ Seuraavaksi käännän koodin toimivaksi ohjelmaksi.
 
 <img width="318" height="184" alt="image" src="https://github.com/user-attachments/assets/c0ccf560-72e0-475f-806a-bc5ab95e0c1f" />
 
+Run tiedostosta löytyy scriptit.
+
+<img width="562" height="924" alt="image" src="https://github.com/user-attachments/assets/2df8bbd8-433d-4d3a-8917-67b8a7a783a1" />
+
+Sitten ajetaan ohjelma.
+
+<img width="918" height="213" alt="image" src="https://github.com/user-attachments/assets/ad749c0e-26f9-404e-a862-6fd10c9f2275" />
+
+Lataan ZIP-tiedoston harjoittelumaaliksi ja koitan avata sen.
+
+<img width="1853" height="414" alt="image" src="https://github.com/user-attachments/assets/bd2c79ee-9edd-44bf-8a68-326eb8e949c6" />
+
 
 
 # Lähteet
