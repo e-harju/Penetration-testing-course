@@ -67,7 +67,17 @@ En tiedä salasanaa, joten koitetaan murtaa se. Löysin salasanan butterfly.
 
 # e
 
-Latasin testi kohteen Openwallin githubista. https://github.com/openwall/john-samples/blob/main/7-Zip/7z-easy.7z.
+Latasin testi kohteen Openwallin githubista. https://github.com/openwall/john-samples/blob/main/7-Zip/7z-easy.7z. Loin tiedostolle hashin 7z2john.pl scriptillä.
+
+<img width="890" height="56" alt="image" src="https://github.com/user-attachments/assets/46e1dd3b-d5b5-4095-a057-f26a819ef2a6" />
+
+Löysin matchin ja sain avattua tiedoston.
+
+<img width="855" height="829" alt="image" src="https://github.com/user-attachments/assets/568a8855-2ef3-46c9-ab97-a4f1a1bd5859" />
+
+<img width="568" height="461" alt="image" src="https://github.com/user-attachments/assets/7b9ce18d-4eff-4f5d-97dc-35d20b70fd5c" />
+
+# f
 
 
 
