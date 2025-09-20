@@ -79,13 +79,23 @@ Löysin matchin ja sain avattua tiedoston.
 
 # f
 
-Etsin hashcat.net sivulta geneerisen sha1 hashin.
+Generoin sha-1 hashin Hash Generatorilla.
 
+<img width="1568" height="966" alt="image" src="https://github.com/user-attachments/assets/bcaa9700-1430-4332-b30b-35aef50b8066" />
 
+Varmistan hashid:n
+
+<img width="450" height="205" alt="image" src="https://github.com/user-attachments/assets/9e4ba69f-f6ae-4e7e-a6d9-3d9acebdc634" />
+
+Etsin hashille vastikkeen.
+
+<img width="1210" height="770" alt="image" src="https://github.com/user-attachments/assets/718c68b1-4937-457f-82ff-9565be810881" />
+
+<img width="412" height="64" alt="image" src="https://github.com/user-attachments/assets/894766a7-e143-4824-9018-11bede27492c" />
 
 # Lähteet
 
-Hashcat. Example hashes. https://hashcat.net/wiki/doku.php?id=example_hashes
+Hash Generator. https://hash-generator.com/sha-1-hash-generator/
 
 Omar Santos, Jon Sternstein, Ron Tayor & Chris McCoy. Security Penetration Testing The Art of Hacking Series LiveLessons. Lesson 6: Hacking User Credentials. https://learning.oreilly.com/videos/security-penetration-testing/9780134833989/9780134833989-sptt_00_06_00_00/
 
