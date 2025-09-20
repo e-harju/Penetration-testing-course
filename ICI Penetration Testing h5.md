@@ -11,6 +11,23 @@
 - Videoissa asiat oli selitetty selkeästi
 - Demot Hashcatista ja John the Ripperistä olivat hyödyllisiä, kun en ole ennen käyttänyt ohjelmia.
 
+# a
+
+Tein aluksi lataukset ja loin tiedoston, johon tekemäni jutut tallentuu. Kokeilin myös, että tiedostot rockyou.txt toimii.
+
+<img width="232" height="578" alt="image" src="https://github.com/user-attachments/assets/ed488e8f-efdd-4296-85c7-6fb1546e3485" />
+
+Seuraavaksi identifioin hashin tyypin.
+
+<img width="440" height="406" alt="image" src="https://github.com/user-attachments/assets/9cd3951f-081f-4ca6-84f3-354f9788dfd8" />
+
+Viimeseksi murran salasanan etsimällä hashia vastaavan salasanan ja tallennan murretun salasanan tiedostoon "solved".
+
+<img width="1206" height="369" alt="image" src="https://github.com/user-attachments/assets/69f8b266-6ef9-41cd-a5ab-9d3240d3f74e" />
+
+
+
+
 # Lähteet
 
 Tero Karvinen. Cracking Passwords with Hashcat. https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
