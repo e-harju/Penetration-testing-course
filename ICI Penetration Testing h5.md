@@ -25,6 +25,11 @@ Viimeseksi murran salasanan etsimällä hashia vastaavan salasanan ja tallennan 
 
 <img width="1206" height="369" alt="image" src="https://github.com/user-attachments/assets/69f8b266-6ef9-41cd-a5ab-9d3240d3f74e" />
 
+# b
+
+Tässä tehtävässä kokeilen John the Ripperin käyttöä. Ensimmäiseksi päivitän apt-get kirjaston ja lataan tarvittavat tiedostot. Ensin komento ei toiminut, kun se sisälsi zlib-gst tiedoston, mutta poistamalla sen sain komennon toimimaan.
+
+<img width="1178" height="706" alt="image" src="https://github.com/user-attachments/assets/fceb09c5-87c7-4a5b-867d-8e41ebcbc118" />
 
 
 
