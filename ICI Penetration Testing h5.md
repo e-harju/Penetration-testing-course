@@ -25,7 +25,7 @@ Viimeseksi murran salasanan etsimällä hashia vastaavan salasanan ja tallennan 
 
 <img width="1206" height="369" alt="image" src="https://github.com/user-attachments/assets/69f8b266-6ef9-41cd-a5ab-9d3240d3f74e" />
 
-# b
+# c
 
 Tässä tehtävässä kokeilen John the Ripperin käyttöä. Ensimmäiseksi päivitän apt-get kirjaston ja lataan tarvittavat tiedostot. Ensin komento ei toiminut, kun se sisälsi zlib-gst tiedoston, mutta poistamalla sen sain komennon toimimaan.
 
@@ -59,7 +59,13 @@ Lataan ZIP-tiedoston harjoittelumaaliksi ja koitan avata sen.
 
 <img width="1853" height="414" alt="image" src="https://github.com/user-attachments/assets/bd2c79ee-9edd-44bf-8a68-326eb8e949c6" />
 
+En tiedä salasanaa, joten koitetaan murtaa se. Löysin salasanan butterfly.
 
+<img width="1125" height="412" alt="image" src="https://github.com/user-attachments/assets/0d58ed37-e536-4bc3-9566-a031b4e4b01b" />
+
+<img width="601" height="329" alt="image" src="https://github.com/user-attachments/assets/8bf889bc-a4b8-4dd6-a60b-cc1baa0d1bfb" />
+
+# e
 
 # Lähteet
 
