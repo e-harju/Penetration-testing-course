@@ -31,6 +31,18 @@ Tässä tehtävässä kokeilen John the Ripperin käyttöä. Ensimmäiseksi päi
 
 <img width="1178" height="706" alt="image" src="https://github.com/user-attachments/assets/fceb09c5-87c7-4a5b-867d-8e41ebcbc118" />
 
+Sueraavaksi lataan ja konfiguroin John the Ripperin.
+
+<img width="649" height="202" alt="image" src="https://github.com/user-attachments/assets/ab21f900-c139-42fd-80a4-d7ecb5d52f1f" />
+
+<img width="293" height="87" alt="image" src="https://github.com/user-attachments/assets/3c4e0c59-b2c4-44da-8ee4-f75409ab00ff" />
+
+<img width="658" height="505" alt="image" src="https://github.com/user-attachments/assets/b475d988-3572-46f8-8f23-7dfd978950f3" />
+
+Seuraavaksi käännän koodin toimivaksi ohjelmaksi.
+
+<img width="318" height="184" alt="image" src="https://github.com/user-attachments/assets/c0ccf560-72e0-475f-806a-bc5ab95e0c1f" />
+
 
 
 # Lähteet
