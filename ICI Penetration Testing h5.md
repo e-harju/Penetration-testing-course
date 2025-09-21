@@ -107,7 +107,7 @@ Seuraavaksi tein asetukset metasploitilla.
 
 <img width="720" height="563" alt="image" src="https://github.com/user-attachments/assets/51f71b4f-e6e2-45cf-917b-b7a2e09b96a7" />
 
-Aikaisempi epäonnistui, joten jouduin tekemään uuden exploitin tällä lisäämällä -f elf -parametrin.
+Aikaisempi epäonnistui, joten jouduin tekemään uuden exploitin ja lisäsin -f elf -parametrin.
 
 <img width="810" height="140" alt="image" src="https://github.com/user-attachments/assets/25509227-9da2-40f3-a69c-3af32bb87cbc" />
 
