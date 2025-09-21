@@ -93,6 +93,34 @@ Etsin hashille vastikkeen.
 
 <img width="412" height="64" alt="image" src="https://github.com/user-attachments/assets/894766a7-e143-4824-9018-11bede27492c" />
 
+# g
+
+Luon infektoituneen tiedoton msfvenomilla.
+
+<img width="788" height="126" alt="image" src="https://github.com/user-attachments/assets/b0ebdff5-2d9f-4bcc-9f61-4069a59acc42" />
+
+Tein zip-tiedoston, jonka siirrän kohdekoneelle.
+
+<img width="257" height="111" alt="image" src="https://github.com/user-attachments/assets/a49f0c07-2e41-4884-9ed6-db00c2c9be44" />
+
+Seuraavaksi tein asetukset metasploitilla.
+
+<img width="720" height="563" alt="image" src="https://github.com/user-attachments/assets/51f71b4f-e6e2-45cf-917b-b7a2e09b96a7" />
+
+Aikaisempi epäonnistui, joten jouduin tekemään uuden exploitin tällä lisäämällä -f elf -komennon.
+
+<img width="810" height="140" alt="image" src="https://github.com/user-attachments/assets/25509227-9da2-40f3-a69c-3af32bb87cbc" />
+
+Lisäsin sen http serverin kautta debianille.
+
+<img width="879" height="541" alt="image" src="https://github.com/user-attachments/assets/54bd2656-d16e-4d24-a6f3-bd2a8db73bc8" />
+
+Sitten käynnistän scriptin.
+
+<img width="420" height="47" alt="image" src="https://github.com/user-attachments/assets/17f6b720-8149-484b-995b-53453d936767" />
+
+
+
 # Lähteet
 
 Hash Generator. https://hash-generator.com/sha-1-hash-generator/
@@ -104,3 +132,5 @@ Openwall. john-samples. https://github.com/openwall/john-samples/blob/main/7-Zip
 Tero Karvinen. Crack File Password With John. https://terokarvinen.com/2023/crack-file-password-with-john/
 
 Tero Karvinen. Cracking Passwords with Hashcat. https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
+
+Tero Karvinen. Tunkeutumistestaus. https://terokarvinen.com/tunkeutumistestaus/#h4-syyskuu2025
