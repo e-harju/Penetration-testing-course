@@ -119,7 +119,9 @@ Sitten käynnistän scriptin.
 
 <img width="420" height="47" alt="image" src="https://github.com/user-attachments/assets/17f6b720-8149-484b-995b-53453d936767" />
 
+Näen meterpreterissä, että olen samassa hakemistossa, mihin reverse on tallennettu kohdekoneella.
 
+<img width="533" height="152" alt="image" src="https://github.com/user-attachments/assets/103c223b-35e2-42dc-9455-d68ffd6ca9ca" />
 
 # Lähteet
 
