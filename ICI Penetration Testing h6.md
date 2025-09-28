@@ -32,6 +32,10 @@ Yhteyden tunnistaa siitä, että Kali kone lähettää pyyntöjä, joihin Debian
 
 Tunnistamista voi vaikeuttaa esimerkiksi salaamalla liikennettä tai luomalla https payloadin. Salaus saatetaan kuitenkin tunnistaa sertifikaatista, joten pitää hankkia virallinen julkinen sertifikaatti.
 
+# b
+
+
+
 # Lähteet
 
 GitHub. Segmentation fault for reverse shell linux both x86 and x64. https://github.com/rapid7/metasploit-framework/issues/12142
