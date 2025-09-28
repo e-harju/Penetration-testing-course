@@ -34,7 +34,15 @@ Tunnistamista voi vaikeuttaa esimerkiksi salaamalla liikennettä tai luomalla ht
 
 # b
 
+Luon elf tiedoston, jonka siirrän http serverin kautta kohdekoneelle.
 
+<img width="399" height="100" alt="image" src="https://github.com/user-attachments/assets/d5c5db85-477b-4949-ad27-253533eed5de" />
+
+Avasin Sliverissä kuuntelun komennolla http ja sitten käynnistin elf tiedoston kohdekoneessa ja sain sen toimimaan.
+
+<img width="1228" height="33" alt="image" src="https://github.com/user-attachments/assets/662523ca-c257-4550-b637-d2f9384fb127" />
+
+# c
 
 # Lähteet
 
