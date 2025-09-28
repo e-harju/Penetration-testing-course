@@ -44,6 +44,18 @@ Avasin Sliverissä kuuntelun komennolla http ja sitten käynnistin elf tiedoston
 
 # c
 
+Kohdekone lähettää dataa ilman, että teen mitään esim. POST ja JQUERY.
+
+<img width="1230" height="272" alt="image" src="https://github.com/user-attachments/assets/f663e2a9-2928-4360-8bba-be2520474356" />
+
+Koneellani ei ole Chromea, mutta http pyynnöt tulevat Chromelta.
+
+<img width="160" height="171" alt="image" src="https://github.com/user-attachments/assets/72cde4cf-bf4c-46e6-b74c-6161b1bf69b0" />
+
+# d
+
+
+
 # Lähteet
 
 NX. BlackDragon. Sliver C2. https://www.blackdragon.se/index.php/articles/114-sliver-c2
