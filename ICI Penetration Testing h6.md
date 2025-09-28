@@ -54,6 +54,10 @@ Koneellani ei ole Chromea, mutta http pyynnöt tulevat Chromelta.
 
 # d
 
+Loin mtls implantin ja avasin sillä yhteyden ja voin todistaa, että ne kättelevät tls yhteydellä tällä kertaa. 
+
+<img width="1273" height="150" alt="image" src="https://github.com/user-attachments/assets/1c3f14b0-ed7c-4d56-9b35-22f08863b2fc" />
+
 
 
 # Lähteet
