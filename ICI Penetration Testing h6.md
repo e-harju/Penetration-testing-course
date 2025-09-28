@@ -30,7 +30,7 @@ Näkyy ls -la pyyntö Kali koneesta ja vastaus Debian koneesta.
 
 Yhteyden tunnistaa siitä, että Kali kone lähettää pyyntöjä, joihin Debian kone vastaa.
 
-Tunnistamista voi vaikeuttaa esimerkiksi salaamalla liikennettä tai luomalla https payloadin.
+Tunnistamista voi vaikeuttaa esimerkiksi salaamalla liikennettä tai luomalla https payloadin. Salaus saatetaan kuitenkin tunnistaa sertifikaatista, joten pitää hankkia virallinen julkinen sertifikaatti.
 
 # Lähteet
 
