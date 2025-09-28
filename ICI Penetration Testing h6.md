@@ -58,7 +58,21 @@ Loin mtls implantin ja avasin sillä yhteyden ja voin todistaa, että ne kättel
 
 <img width="1273" height="150" alt="image" src="https://github.com/user-attachments/assets/1c3f14b0-ed7c-4d56-9b35-22f08863b2fc" />
 
+# e
 
+<img width="620" height="194" alt="image" src="https://github.com/user-attachments/assets/54e0c08d-e499-4e72-a26f-429358d2626f" />
+
+Pääsin shelliin.
+
+<img width="617" height="311" alt="image" src="https://github.com/user-attachments/assets/2a7416dc-ea69-4c77-bce8-be2f34665b1d" />
+
+Screenshot komento antoi vain mustan ruudun. En osaa sanoa, miksi.
+
+Käynnistin firefoxin execute komennolla.
+
+<img width="316" height="92" alt="image" src="https://github.com/user-attachments/assets/bed81514-869f-418d-ad62-1e32eb04667f" />
+
+<img width="1285" height="799" alt="image" src="https://github.com/user-attachments/assets/31d1278f-1aab-4f76-83c4-b20b4a84bbdb" />
 
 # Lähteet
 
