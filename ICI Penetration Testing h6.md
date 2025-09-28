@@ -18,9 +18,15 @@ Meni hetken aikaa, kun tein h5 tehtävän payloadilla. Staged payload toimi host
 
 <img width="829" height="295" alt="image" src="https://github.com/user-attachments/assets/2b4a722a-074b-48bf-878d-591c378a7ce0" />
 
-Wiresharkissa näkyy ls -la pyyntö ja vastaus.
+Wiresharkissa näkyy yhteydenotto, joka lähtee Kali koneesta.
 
+<img width="1230" height="115" alt="image" src="https://github.com/user-attachments/assets/cdf5be7a-8309-41d4-91e4-d81fe6e78f3f" />
 
+Näkyy ls -la pyyntö Kali koneesta ja vastaus Debian koneesta.
+
+<img width="1229" height="380" alt="image" src="https://github.com/user-attachments/assets/ef676975-3005-469f-8b49-8129af50b81e" />
+
+<img width="1232" height="354" alt="image" src="https://github.com/user-attachments/assets/37e1d487-62e5-4b8e-b974-51999a9cdc2a" />
 
 # Lähteet
 
