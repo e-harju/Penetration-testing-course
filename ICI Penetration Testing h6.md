@@ -38,7 +38,9 @@ Tunnistamista voi vaikeuttaa esimerkiksi salaamalla liikennettä tai luomalla ht
 
 # Lähteet
 
-GitHub. Segmentation fault for reverse shell linux both x86 and x64. https://github.com/rapid7/metasploit-framework/issues/12142
+NX. BlackDragon. Sliver C2. https://www.blackdragon.se/index.php/articles/114-sliver-c2
+
+Robomotic. GitHub. Segmentation fault for reverse shell linux both x86 and x64. https://github.com/rapid7/metasploit-framework/issues/12142
 
 Sliver. Sliver Wiki. https://sliver.sh/docs
 
