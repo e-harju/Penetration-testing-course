@@ -28,6 +28,10 @@ Näkyy ls -la pyyntö Kali koneesta ja vastaus Debian koneesta.
 
 <img width="1232" height="354" alt="image" src="https://github.com/user-attachments/assets/37e1d487-62e5-4b8e-b974-51999a9cdc2a" />
 
+Yhteyden tunnistaa siitä, että Kali kone lähettää pyyntöjä, joihin Debian kone vastaa.
+
+Tunnistamista voi vaikeuttaa esimerkiksi salaamalla liikennettä tai luomalla https payloadin.
+
 # Lähteet
 
 GitHub. Segmentation fault for reverse shell linux both x86 and x64. https://github.com/rapid7/metasploit-framework/issues/12142
