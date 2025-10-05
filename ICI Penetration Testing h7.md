@@ -30,6 +30,18 @@ HTB säännöt:
 
 <img width="681" height="1227" alt="image" src="https://github.com/user-attachments/assets/ff2c5616-d6e8-4073-bd0d-92e112e91ce3" />
 
+VPN päällä ja luon virtuaalikonetta.
+
+<img width="1188" height="358" alt="image" src="https://github.com/user-attachments/assets/349a43f3-91d5-4a1f-955c-17ee6baeec77" />
+
+Tein ensimmäiset kirjalliset kohdat.
+
+<img width="1139" height="426" alt="image" src="https://github.com/user-attachments/assets/44c778ef-9a3a-4e55-9b18-6f0a40ff2ba8" />
+
+Seuraavaksi tekniset kohdat.
+
+<img width="527" height="280" alt="image" src="https://github.com/user-attachments/assets/b0dfff85-f9e0-4b66-8014-47b4ec176835" />
+
 
 
 ## c
@@ -44,3 +56,5 @@ keywords: {Intrusion detection;Accuracy;Computer security;Long short term memory
 Karvinen Tero. Start Your Research with a Review Article. https://terokarvinen.com/review-article/
 
 Karvinen Tero. Tunkeutumistestaus. https://terokarvinen.com/tunkeutumistestaus/#h7-maalisuoralla
+
+Noobosaurus-r3x. SMBClient Cheat Sheet. https://github.com/noobosaurus-r3x/Cheat-sheets/blob/main/SMBClient%20Cheat%20Sheet.md
