@@ -79,12 +79,32 @@ Sivulla käytetään php.
 
 En itse tajunnut, ettei koneeni ei löydä sivua. Löysin redditistä, kuinka tämä kohta piti tehdä.
 
-Seuraavaksi 
+Sivun kieltä kontrolloi page parametri.
+
+<img width="905" height="655" alt="image" src="https://github.com/user-attachments/assets/30a81db7-1410-42f4-a1bb-2af6b4a0f526" />
+
+<img width="1126" height="223" alt="image" src="https://github.com/user-attachments/assets/87e346fe-31e6-4b04-a188-260838cf5410" />
+
+Remote file vs local file
+
+<img width="1137" height="548" alt="image" src="https://github.com/user-attachments/assets/c0af8efa-5ade-418d-839e-a753ea6fe9cb" />
+
+NTML eli New Techonology LAN Manager
+
+<img width="1140" height="229" alt="image" src="https://github.com/user-attachments/assets/84781db6-11fd-4427-8524-d4890046b2d9" />
+
+Responder työkalu.
+
+<img width="1164" height="232" alt="image" src="https://github.com/user-attachments/assets/a2cacd71-412e-42dd-a363-9123f1958385" />
+
+Opettelen seuraavaksi sen käyttöä Kalin omasta dokumentaatiosta.
 
 ## Lähteet
 
 H. Hakami, M. Faheem and M. Bashir Ahmad, "Machine Learning Techniques for Enhanced Intrusion Detection in IoT Security," in IEEE Access, vol. 13, pp. 31140-31158, 2025, doi: 10.1109/ACCESS.2025.3542227.
 keywords: {Intrusion detection;Accuracy;Computer security;Long short term memory;Security;Feature extraction;Decision trees;Reliability;Random forests;Radio frequency;Intrusion detection;IoT;classification;machine/deep learning;random forests;long-short-term-memory},
+
+Kali. Responder. https://www.kali.org/tools/responder/
 
 Karvinen Tero. Start Your Research with a Review Article. https://terokarvinen.com/review-article/
 
@@ -93,3 +113,5 @@ Karvinen Tero. Tunkeutumistestaus. https://terokarvinen.com/tunkeutumistestaus/#
 Noobosaurus-r3x. SMBClient Cheat Sheet. https://github.com/noobosaurus-r3x/Cheat-sheets/blob/main/SMBClient%20Cheat%20Sheet.md
 
 Reddit. https://www.reddit.com/r/hackthebox/comments/mgftfx/deleted_by_user/
+
+Wikipedia. NTLM. https://en.wikipedia.org/wiki/NTLM
