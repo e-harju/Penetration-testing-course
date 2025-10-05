@@ -127,7 +127,13 @@ Otin yhteyden evil-winrmilla koneeseen.
 
 <img width="1642" height="635" alt="image" src="https://github.com/user-attachments/assets/db4c734d-aea4-4dd8-8297-3ebd83718920" />
 
+Kaivon tiedostoja ja löysin lippu-tiedoston.
 
+<img width="503" height="166" alt="image" src="https://github.com/user-attachments/assets/b5e29176-d880-40f8-8515-52f8576e5b42" />
+
+<img width="434" height="72" alt="image" src="https://github.com/user-attachments/assets/30aaa312-563e-4191-b1d9-ee566625e666" />
+
+<img width="748" height="666" alt="image" src="https://github.com/user-attachments/assets/a0c90898-8748-42bd-b591-8f50b194d399" />
 
 ## Lähteet
 
