@@ -42,7 +42,24 @@ Seuraavaksi tekniset kohdat.
 
 <img width="527" height="280" alt="image" src="https://github.com/user-attachments/assets/b0dfff85-f9e0-4b66-8014-47b4ec176835" />
 
+<img width="1152" height="212" alt="image" src="https://github.com/user-attachments/assets/cb271ec5-5f5c-4192-991a-fdb2e51bf05a" />
 
+
+Löysin SMBClientilla sharet.
+
+<img width="723" height="271" alt="image" src="https://github.com/user-attachments/assets/5a548dea-081a-42b8-a05b-5000e3a60745" />
+
+<img width="1150" height="233" alt="image" src="https://github.com/user-attachments/assets/ef9bb8f8-c5eb-45da-86d5-81019ac05dc9" />
+
+Löysin, mihin voin päästä.
+
+<img width="1137" height="421" alt="image" src="https://github.com/user-attachments/assets/ecaaa582-b00e-4e00-a41e-1b5cf7f4113b" />
+
+Löysin lipun.
+
+<img width="612" height="133" alt="image" src="https://github.com/user-attachments/assets/bcd690be-3469-4525-a442-7a19bc37fe58" />
+
+<img width="1180" height="645" alt="image" src="https://github.com/user-attachments/assets/8b858e89-d643-464a-978c-2cb30d9adc2c" />
 
 ## c
 
