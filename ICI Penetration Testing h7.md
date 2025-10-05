@@ -14,3 +14,10 @@
 
 
 ## c
+
+
+
+## Lähteet
+
+Karvinen Tero. Start Your Research with a Review Article. https://terokarvinen.com/review-article/
+Karvinen Tero. Tunkeutumistestaus. https://terokarvinen.com/tunkeutumistestaus/#h7-maalisuoralla
