@@ -26,6 +26,10 @@
 
 ## b
 
+HTB säännöt:
+
+<img width="681" height="1227" alt="image" src="https://github.com/user-attachments/assets/ff2c5616-d6e8-4073-bd0d-92e112e91ce3" />
+
 
 
 ## c
