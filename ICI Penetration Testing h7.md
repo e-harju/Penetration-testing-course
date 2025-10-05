@@ -6,6 +6,7 @@
 
 <br>
 
+- Artikkeli on pitkä, joten teen tehtävän silmäillen
 - NIDS järjestelmiä tarvitaan suojelemaan tietoverkkoja
 - Tekoälyä voisi soveltaa tunkeutumisen tunnistamisessa IoT verkoissa
 - Pitää aloittaa tekemällä IDS, jossa on dataa sekä normaaleista että haitallisista logeista
