@@ -1,6 +1,7 @@
 ## x
 
-- Ensimmäinen artikkeli kertoi, mitä JUFO ja Scholar ovat ja miten niitä kannattaa katsoa/etsiä
+- Ensimmäinen artikkeli kertoi, mitä JUFO ja Scholar ovat
+- Opetti ihan hyvin, miten niistä pitäisi löytää artikkeleja
 - Etsin artikkelin tietoturvasta
 
 <br>
