@@ -1,5 +1,8 @@
 ## x
 
+- Ensimmäinen artikkeli kertoi hyvin, mitä JUFO ja Scholar ovat ja miten niitä kannattaa katsoa/etsiä
+- 
+
 ## a
 
 - AMD64: Minulla on AMD64 pohjainen läppäri, joten tähän ei tarvinnut tehdä muutoksia
