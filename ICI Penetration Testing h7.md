@@ -3,6 +3,8 @@
 - Ensimmäinen artikkeli kertoi, mitä JUFO ja Scholar ovat ja miten niitä kannattaa katsoa/etsiä
 - Etsin artikkelin tietoturvasta
 
+<br>
+
 - NIDS järjestelmiä tarvitaan suojelemaan tietoverkkoja
 - Tekoälyä voisi soveltaa tunkeutumisen tunnistamisessa IoT verkoissa
 - Pitää aloittaa tekemällä IDS, jossa on dataa sekä normaaleista että haitallisista logeista
