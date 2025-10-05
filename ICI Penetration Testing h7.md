@@ -91,3 +91,5 @@ Karvinen Tero. Start Your Research with a Review Article. https://terokarvinen.c
 Karvinen Tero. Tunkeutumistestaus. https://terokarvinen.com/tunkeutumistestaus/#h7-maalisuoralla
 
 Noobosaurus-r3x. SMBClient Cheat Sheet. https://github.com/noobosaurus-r3x/Cheat-sheets/blob/main/SMBClient%20Cheat%20Sheet.md
+
+Reddit. https://www.reddit.com/r/hackthebox/comments/mgftfx/deleted_by_user/
