@@ -63,7 +63,23 @@ Löysin lipun.
 
 ## c
 
+Loin virtuaalikoneen.
 
+<img width="1132" height="220" alt="image" src="https://github.com/user-attachments/assets/40fda7d6-7f08-4115-8a80-f51a0bdc6ba9" />
+
+IP-osoitteella avautui unika.htb.
+
+<img width="1594" height="750" alt="image" src="https://github.com/user-attachments/assets/b445cfff-08fa-4b95-b6f9-0d057e5241e9" />
+
+<img width="1155" height="258" alt="image" src="https://github.com/user-attachments/assets/fd1065ab-e8cf-4cf2-9d87-18689b3ed6a3" />
+
+Sivulla käytetään php.
+
+<img width="1126" height="232" alt="image" src="https://github.com/user-attachments/assets/53411093-3b56-42c8-a125-bc421a923ea4" />
+
+En itse tajunnut, ettei koneeni ei löydä sivua. Löysin redditistä, kuinka tämä kohta piti tehdä.
+
+Seuraavaksi 
 
 ## Lähteet
 
