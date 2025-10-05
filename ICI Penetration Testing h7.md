@@ -77,7 +77,7 @@ Sivulla käytetään php.
 
 <img width="1126" height="232" alt="image" src="https://github.com/user-attachments/assets/53411093-3b56-42c8-a125-bc421a923ea4" />
 
-En itse tajunnut, ettei koneeni ei löydä sivua. Löysin redditistä, kuinka tämä kohta piti tehdä.
+En itse tajunnut, ettei koneeni ei löydä sivua ja pitää manuaalisesti tehdä reikä. Löysin redditistä, kuinka tämä kohta piti tehdä.
 
 Sivun kieltä kontrolloi page parametri.
 
@@ -97,12 +97,44 @@ Responder työkalu.
 
 <img width="1164" height="232" alt="image" src="https://github.com/user-attachments/assets/a2cacd71-412e-42dd-a363-9123f1958385" />
 
+<img width="1082" height="271" alt="image" src="https://github.com/user-attachments/assets/8d9c3444-f213-4b21-abec-ec83aa01834d" />
+
 Opettelen seuraavaksi sen käyttöä Kalin omasta dokumentaatiosta.
+
+Sain hashin. 
+
+<img width="1288" height="163" alt="image" src="https://github.com/user-attachments/assets/8dbe14a4-28df-46e2-aa28-5f00dc55d761" />
+
+<img width="1897" height="102" alt="image" src="https://github.com/user-attachments/assets/1c554efa-23b6-4942-9186-49f5bcc12fe3" />
+
+Seuraavaksi murran sen hashcatilla. Tähän meni todella pitkään, koska en tiennyt, mikä on resolverin hash osuus.
+
+<img width="1919" height="173" alt="image" src="https://github.com/user-attachments/assets/7864053e-7b1b-4801-8a44-5a53036a7c40" />
+
+<img width="1916" height="713" alt="image" src="https://github.com/user-attachments/assets/2022793f-cd39-4f53-a54f-c9c39e2dfb68" />
+
+<img width="1890" height="112" alt="image" src="https://github.com/user-attachments/assets/579bd751-0444-45fd-8cd4-d796b924c338" />
+
+Sitten syötän salasanan.
+
+<img width="1127" height="234" alt="image" src="https://github.com/user-attachments/assets/0285651c-9cfc-4522-9ffe-fe45568ed0d4" />
+
+Aikasemmin tekemästäni nmap skannista löysin oikean portin.
+
+<img width="1140" height="241" alt="image" src="https://github.com/user-attachments/assets/1ab390af-b4b2-4bf4-9206-5054e723f79c" />
+
+Otin yhteyden evil-winrmilla koneeseen.
+
+<img width="1642" height="635" alt="image" src="https://github.com/user-attachments/assets/db4c734d-aea4-4dd8-8297-3ebd83718920" />
+
+
 
 ## Lähteet
 
 H. Hakami, M. Faheem and M. Bashir Ahmad, "Machine Learning Techniques for Enhanced Intrusion Detection in IoT Security," in IEEE Access, vol. 13, pp. 31140-31158, 2025, doi: 10.1109/ACCESS.2025.3542227.
 keywords: {Intrusion detection;Accuracy;Computer security;Long short term memory;Security;Feature extraction;Decision trees;Reliability;Random forests;Radio frequency;Intrusion detection;IoT;classification;machine/deep learning;random forests;long-short-term-memory},
+
+Kali. Evil-winrm. https://www.kali.org/tools/evil-winrm/
 
 Kali. Responder. https://www.kali.org/tools/responder/
 
